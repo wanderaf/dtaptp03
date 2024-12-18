@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+__pycache__/
+data/
+etc/
+include/
+Lib/
+Scripts/
+share/
+.env
